@@ -32,9 +32,7 @@ With the Google Maps Styling Wizard you can create a unique style for your react
 
 If will briefly go over the editor. A good feature for experimenting with the editor options is the Road since any changes that you make will be immediately visible. Click on Road and then click on Fill. Now you can change the color, weight, saturation, and lightness of the different elements that make up the Road such as labels and geometry. 
 
- 
-
- 
+![](https://github.com/rahulwadhwa238/How-to-create-custom-styling-for-react-native-maps/google.jpg?raw=true)
 
 Once you have spent countless agonizing days creating the perfect style for your map click FINISH and copy the JSON. Or just select one of the basic themes and click finish. Now, put this in a variable. And finally set the customMapStyle prop of your MapView to this variable. 
 
@@ -45,12 +43,6 @@ var mapStyle = [
 initialRegion={region} 
 customMapStyle={mapStyle} 
 /> 
-
-Here is an example of a custom map style: 
-
- 
-
- 
 
 # Creating a search box with callouts 
 
@@ -101,7 +93,4 @@ borderWidth: 0.0
 } 
 
 This search box will look like this: 
-
- 
-
- 
+![](https://github.com/rahulwadhwa238/How-to-create-custom-styling-for-react-native-maps/map-view.jpg?raw=true)
