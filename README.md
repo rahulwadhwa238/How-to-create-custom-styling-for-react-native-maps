@@ -1,6 +1,4 @@
-#How to create custom styling for react native maps
-
- 
+#How to create custom styling for react native maps 
 
 This post will teach you how to change the style (colors and other visual elements) of a react native map. 
 You will also learn how to use callouts to add a search box to a map. 
