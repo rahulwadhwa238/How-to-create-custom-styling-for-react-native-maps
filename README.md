@@ -8,7 +8,7 @@ You will also learn how to use callouts to add a search box to a map.
 If you haven’t done this already, get yourself a nice basic map. If you have a map already, skip to the next section. If you don’t, slap this into your terminal: 
 
 > #### npm install react-native-maps 
-##### or 
+#####            or 
 > #### yarn add react-native-maps
 
 And follow these instructions. After you have installed react native maps, you are going to want to import react native maps and add a MapView component to the render of your app. 
