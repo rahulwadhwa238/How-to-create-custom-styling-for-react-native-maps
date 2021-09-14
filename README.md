@@ -71,7 +71,7 @@ customMapStyle={mapStyle}
 <TextInput style={styles.calloutSearch} 
 placeholder={"Search"} 
 /> 
-</View> 
+</View>
 </Callout> 
 </View>// on the style sheet 
 calloutView: { 
