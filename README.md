@@ -11,7 +11,7 @@ If you haven’t done this already, get yourself a nice basic map. If you have a
 ##### or 
 > #### yarn add react-native-maps
 
-And follow these instructions. After you have installed react native maps, you are going to want to import react native maps and add a MapView component to the render of your app. 
+And follow these [instructions](https://github.com/react-native-maps/react-native-maps/blob/master/docs/installation.md). After you have installed react native maps, you are going to want to import react native maps and add a MapView component to the render of your app. 
 
 import MapView from 'react-native-maps';// declare this outside of render 
 var region = { 
@@ -28,7 +28,7 @@ Verify that the map works and move on.
 
 ## Choosing the style 
 
-According to the MapView documentation you can add a custom style to a map with the prop customMapStyle. This prop accepts an array which contains the custom style. To generate a custom style go to the Google Maps Styling Wizard. 
+According to the [MapView documentation](https://github.com/react-native-maps/react-native-maps/blob/master/docs/mapview.md) you can add a custom style to a map with the prop customMapStyle. This prop accepts an array which contains the custom style. To generate a custom style go to the [Google Maps Styling Wizard](https://mapstyle.withgoogle.com/). 
 
 With the Google Maps Styling Wizard you can create a unique style for your react native map. Using the basic editor you can choose from six themes and change the density of roads, landmarks, and labels. Click “More Options” and you will be presented with the ultimate Styling Wizard for Google Maps. 
 
